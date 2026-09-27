@@ -1,0 +1,15 @@
+# 模型文件（太大，不上传）
+model
+models
+
+# 上传和输出的音频
+uploads
+output
+
+# Python 缓存
+__pycache__
+.pyc
+.venv
+
+# 环境变量
+.env
